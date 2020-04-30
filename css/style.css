@@ -115,6 +115,12 @@ h1, h2, h3, h4, h5, h6 {
   vertical-align: middle;
 }
 
+img.profile-photo {
+  width: 250px;
+  border-radius: 20px;
+  margin-bottom: 25px;
+}
+
 #hero h1 {
   margin: 30px 0 10px 0;
   font-weight: 700;
@@ -494,6 +500,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about {
   background: #fff;
   padding: 80px 0;
+  text-align: center;
 }
 
 #about .about-img {
